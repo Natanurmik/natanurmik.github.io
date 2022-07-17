@@ -1,0 +1,60 @@
+/* Компонент с выбором часового пояса ON*/
+
+.time_select {
+	margin-top: 20px;
+	width: 453px;
+}
+
+.form_label {
+	margin-bottom: 8px;
+	
+	font-weight: 400;
+	font-size: 13px;
+	color: #94A3B8;
+	line-height: 12px;
+}
+
+.form-select {
+	border-radius: 24px;
+	font-size: 15px;
+	background-color: #F8FAFC;
+	/* background-image: url("../Icons/check_time_icon.svg"); */
+	background-size: 16px 20px;
+}
+
+/* Компонент с выбором часового пояса ON*/
+
+.time_select_off {
+	opacity: .5;
+}
+
+.form-select-off {
+	color: #94A3B8;
+}
+
+.off {
+	background-image: none;
+}
+
+.org_select {
+	margin-top: 20px;
+	width: 453px;
+}
+
+.org_label {
+	margin-bottom: 8px;
+
+	font-weight: 400;
+	font-size: 13px;
+	color: #94A3B8;
+	line-height: 12px;
+}
+
+.form-org-select {
+	border-radius: 24px;
+	font-size: 15px;
+	background-size: 16px 20px;
+	border: 1px solid #E2E8F0;
+	padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+	background-color: #F8FAFC;
+}
